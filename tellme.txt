@@ -1,0 +1,21 @@
+Tell me how to remove them locally and remotly : 
+
+Locally :
+git branch -d / -D [[branch name]]
+
+remotly :
+git push origin :[[branch name]]
+
+
+
+
+Tell my how to switch to anathor branch without commiting changes : 
+
+1- first staching changes :
+    git stash 
+2- switch branches : 
+    git checkout [[branch name]]
+
+
+
+    
