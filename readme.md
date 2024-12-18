@@ -25,7 +25,12 @@ git push origin :[[branch name]] # Push a delete command for the remote branch
    ```
 
 2. **Switch Branches:**
+
    ```bash
    git checkout [[branch name]] # Checkout the desired branch
 
    ```
+
+3. **adding an image:**
+
+   ![chicago](images/chicago.jpg)
